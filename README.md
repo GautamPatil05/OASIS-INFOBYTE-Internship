@@ -1,3 +1,3 @@
-# OIBSIP
+# OASIS INFOBYTE Internship
 
-This is the tasks i have completed in OASIS INFOBYTE internship
+This reposatory contain the two task that i have done while doning the internship.
